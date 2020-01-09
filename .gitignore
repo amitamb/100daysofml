@@ -126,3 +126,5 @@ Thumbs.db
 .pytest_cache
 
 fastai
+
+mnist
